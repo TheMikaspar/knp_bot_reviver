@@ -1,0 +1,24 @@
+{
+  "name": "knp_bot_reviver",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/themikaspar/knp_bot_reviver.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/themikaspar/knp_bot_reviver/issues"
+  },
+  "homepage": "https://github.com/themikaspar/knp_bot_reviver#readme",
+  "dependencies": {
+    "discord.js": "^14.8.0",
+    "noblox.js": "^4.14.0",
+    "nodeactyl": "^3.3.0"
+  }
+}
